@@ -1,6 +1,6 @@
 
 # Hi, I'm Vidya Sagar Hansda 🤝
-<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<img width="200px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 
 - Passionate and dedicated to learning new things.
