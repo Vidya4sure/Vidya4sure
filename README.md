@@ -9,10 +9,10 @@
 <img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 
+- 🔰 Learning HTML, CSS & JS.
 - 🔥Passionate and dedicated to learning new things.
 - 🧑‍💻Currently pursuing BCA.
 - 👁️Constantly seeking opportunities to enhance skills and stay current with industry trends.
-- ↗️Experienced in Canva Designing.
 - 💮Continuously learning and engaging with the tech community.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31docmvcn7s32f4cgw75sfqx3p4y&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31docmvcn7s32f4cgw75sfqx3p4y&redirect=true)
