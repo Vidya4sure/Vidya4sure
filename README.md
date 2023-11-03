@@ -6,7 +6,7 @@
   <img src="https://visitcount.itsvg.in/api?id=vidya4sure&label=Profile%20Views&color=2&icon=0&pretty=true" />
 </a>
 
-<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 
 - 🔰 Learning HTML, CSS & JS.
