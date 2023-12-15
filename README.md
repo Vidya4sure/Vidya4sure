@@ -5,6 +5,5 @@
   <img src="https://visitcount.itsvg.in/api?id=vidya4sure&label=Profile%20Views&color=2&icon=0&pretty=true" />
 </a>
 
-<img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,git,vscode,java,discord&perline=7)](https://skillicons.dev)
