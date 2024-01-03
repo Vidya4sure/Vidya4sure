@@ -1,3 +1,4 @@
+![Mern banner](https://github.com/Vidya4sure/Vidya4sure/assets/123371804/4cffb7e0-35ea-49cb-ab27-97285d2eb2a7)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F7B200&width=435&lines=change+is+the+only+constant." alt="Typing SVG" /></a>
 
